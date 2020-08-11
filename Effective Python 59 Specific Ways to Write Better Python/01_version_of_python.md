@@ -6,7 +6,7 @@
 
 用过其他语言（比如C++,Java）的程序员可能会将之前的习惯带到Python里。而新手则会舒服很多，因为Python中大量概念都是非常直观易懂。对于每个人来说，将Python写得`Pythonic`非常重要。这种习惯会影响以后写的每道程序。
 
-## 1. 搞懂自己使用的Python版本
+## 1. 查看使用Python的版本
 
 > $ python --version  
 > Python 3.7.4
@@ -21,10 +21,10 @@ print(sys.version)
 
 ## 要记住
 
-1. 目前主要使用两个版本：Python 2和Python 3.7。
+1. 目前主要使用两个版本：Python 2和Python 3。
 
 2. 几个知名的Python运行平台：CPython，Jython，IronPython，PyPy等等。
 
-3. 确认命令行运行Python的版本是否符合预期版本。
+3. 确认命令行运行Python的版本是否符合预期。
 
-4. 最好使用Python 3，因为这是目前Python社区的主要关注点。
+4. 最好使用Python 3，因为这是目前Python社区的主要关注对象。

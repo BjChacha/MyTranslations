@@ -6,7 +6,7 @@
 
 1. Pythonic思维
     1. 查看使用`Python`的版本
-    2. `PEP 8`规范指南
+    2. 遵循`PEP 8`规范指南
     3. `byte`, `str`和`unicode`的区别
     4. 写helper函数
     5. 切片
