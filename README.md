@@ -3,6 +3,6 @@
 ### 目录
 
 * Deep Learning's Most Important Ideas - A Brief Historical Review
-  * 进度：0 %
+  * 进度：100 %
 * Effective Python 59 Specific Ways to Write Better Python
-  * 进度：5 %
+  * 进度：15 %
